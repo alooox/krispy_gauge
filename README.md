@@ -1,6 +1,8 @@
 # Krispy Gauge
 A Open Source Digital Circular Customisable Touchscreen Canbus Gauge
 
+This gauge is currently being optimised for Haltech ECU's https://www.haltech.com but could easily be modified for other ECU's by editing the canbus.ino Values
+
 **Parts Only Kits Available Soon**
 
 **Assembeled Gauges Available Soon**
@@ -85,9 +87,10 @@ User_Setup_Select.h will need to be placed in TFT_eSPI
 
 
 
+## Thanks and Mentions
 
-
-
+A Special thanks to https://github.com/tolunaygul and https://github.com/analoghan for some of the Keypad Emulation Code
+And Special thanks to Haltech for making such awesome products
 
 
 
