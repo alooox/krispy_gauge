@@ -6,9 +6,10 @@ A Open Source Digital Circular Customisable Touchscreen Canbus Gauge
 
 This gauge is currently being optimised for Haltech ECU's https://www.haltech.com but could easily be modified for other ECU's by editing the canbus.ino Values
 
-**Parts Only Kits Available Soon**
+**Parts Only Kits Available Soon** and will be available at https://shop.krispy.co.nz
 
-**Assembeled Gauges Available Soon**
+**Assembeled Gauges Available Soon** and will be available at https://shop.krispy.co.nz
+
 
 
 ## Functions
