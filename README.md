@@ -83,6 +83,8 @@ SuperGlue/CA Glue for front Bezel Adhesion
 ### 3D Printed Files :
 https://github.com/alooox/krispy_gauge/blob/main/STL
 
+3D Print with JLC3DP https://jlc3dp.com/?from=alexproctor
+
 Print one of each of the following parts
 
 1x Main Housing (Recomended 0.15mm to 0.2 Layer height, and Buildplate only supports)
@@ -110,6 +112,8 @@ Technically the gauge could be assembeled without these custom PCB's but it invo
 1x ECU to Gauge Backplane PCB
 
 I recomend JLCPCB or PCBWay to get these PCB's Produced
+
+PCB from JLCPCB https://jlcpcb.com/?from=alexproctor1
 
 
 ## Software
