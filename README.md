@@ -123,8 +123,11 @@ Precompiled Builds for the Krispy Gauge are available here (LINK)
 If you wish to compile Krispy Gauge yourself you will require the following Libraries 
 
 MCP CAN : https://github.com/coryjfowler/MCP_CAN_lib
+
 TFT_eSPI : https://github.com/Bodmer/TFT_eSPI
+
 SEEED Round Display : https://github.com/Seeed-Studio/Seeed_Arduino_RoundDisplay
+
 LVGL : https://github.com/lvgl/lvgl
 
 File Additions
