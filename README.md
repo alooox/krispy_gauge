@@ -123,17 +123,13 @@ Precompiled Builds for the Krispy Gauge are available here (LINK)
 If you wish to compile Krispy Gauge yourself you will require the following Libraries 
 
 MCP CAN : https://github.com/coryjfowler/MCP_CAN_lib
-
 TFT_eSPI : https://github.com/Bodmer/TFT_eSPI
-
 SEEED Round Display : https://github.com/Seeed-Studio/Seeed_Arduino_RoundDisplay
-
 LVGL : https://github.com/lvgl/lvgl
 
 File Additions
-Setup66_Seeed_XIAO_Round.h will need to be placed in TFT_eSPI > User Setups Folder
-User_Setup_Select.h will need to be placed in TFT_eSPI
-
+1. Setup66_Seeed_XIAO_Round.h will need to be copied to Documents\Arduino\libraries\TFT_espi\User_Setups
+2. User_Setup_Select.h will need to be copied to Documents\Arduino\libraries\TFT_eSPI\
 
 
 
